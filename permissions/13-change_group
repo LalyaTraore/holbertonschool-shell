@@ -1,3 +1,2 @@
 #!/bin/bash 
-file="hello"
-group="school"
+chown bin school helo
