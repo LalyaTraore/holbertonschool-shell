@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_owner_group.sh
+chown vincent:staff "$file"
