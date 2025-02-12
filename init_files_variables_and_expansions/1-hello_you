@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello $(whoami)"
+su student_jail -c 'timeout 30 bash -c "export USER=MyUser; ./1-hello_you"
