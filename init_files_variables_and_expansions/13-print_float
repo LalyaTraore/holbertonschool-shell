@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school hello
+printf "%.2f\n" $NUM
